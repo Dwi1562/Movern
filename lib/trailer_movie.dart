@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class TrailerScreen extends StatefulWidget {
-  final String youtubeKey; // YouTube video key for the trailer
+  final String youtubeKey;
 
   TrailerScreen({required this.youtubeKey});
 

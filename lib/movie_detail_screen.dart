@@ -19,7 +19,7 @@ class _MovieDetailScreenState extends State<MovieDetailScreen> {
   @override
   void initState() {
     super.initState();
-    _fetchMovieVideos(); // Fetch movie videos when the screen is initialized
+    _fetchMovieVideos();
   }
 
   // Fetch movie videos from the API
